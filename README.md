@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://app.netlify.com/sites/your-site-name/deploys">
-    <img src="https://api.netlify.com/api/v1/badges/your-badge-id/deploy-status" alt="Netlify Status" />
+    <img src="https://api.netlify.com/api/v1/badges/7f87c14f-ae78-40aa-aee2-8f5adffbb5e8/deploy-status" alt="Netlify Status" />
   </a>
 </p>
 
