@@ -1,7 +1,7 @@
 {
-    "name": "Micheal Weaver",
-    "logo_name": "micheal-weaver",
-    "role": "Front-end developer",
+    "name": "Yash Soni",
+    "logo_name": "yash-soni",
+    "role": "AI Full Stack Engineer",
     "about": {
         "sections": {
             "professional-info": {
@@ -10,15 +10,15 @@
                 "info": {
                     "experience": {
                         "title": "experience",
-                        "description": "<br>Over the past 5 years, Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <br><br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                        "description": "<br>Over the past 7+ years, I have gained extensive experience as a Full Stack Engineer, working on a wide range of technologies and projects. I have led development teams, collaborated with partners for product engineering, and worked in agile environments on scalable and distributed web applications. My expertise spans frontend technologies like React and Angular, backend frameworks such as .Net Core and Node.js, and cloud platforms including AWS and Azure.<br><br>I have contributed to various projects, including APM products, DevOps tools, and audit applications, utilizing my skills in both frontend and backend development, as well as my knowledge of AI and cloud technologies."
                     },
                     "hard-skills": {
                         "title": "hard-skills",
-                        "description": "<br>As a front-end developer, Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <br><br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                        "description": "<br>As a Full Stack Engineer, I have developed strong skills in both frontend and backend technologies. My key technical skills include:<br><br>Frontend: React, Angular, Next.js<br>Backend: .Net Core Web API, Node.js, Python, Nest.js<br>AI: OpenAI, VectorDB, RAG Document Chat, Text2SQL<br>Languages & Frameworks: JavaScript, TypeScript<br>Databases: PostgreSQL, MongoDB, MSSQL, Redis, Qdrant Vector DB<br>DevOps & Cloud: Docker, Kubernetes, AWS (EKS, EC2), Azure, CI/CD<br>Other: RESTful APIs, Microservices, WebSockets, Git, JIRA, Azure DevOps"
                     },
                     "soft-skills": {
                         "title": "soft-skills",
-                        "description": "<br>I bring more than Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <br><br> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                        "description": "<br>I bring more than technical expertise to my role. My soft skills include:<br><br>- Excellent problem-solving abilities<br>- Strong communication skills<br>- Quick learning aptitude<br>- Collaborative team player<br>- Leadership experience as a Tech Lead<br>- Adaptability to new technologies and environments"
                     }
                 }
             },
@@ -28,18 +28,17 @@
                 "info": { 
                     "bio": {
                         "title": "bio",
-                        "description": "<br> About me <br> I have 5 years of experience in web development lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br><br> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat  nulla pariatur. Excepteur sint occaecat  officia deserunt mollit anim id est laborum."
+                        "description": "<br>I am a passionate Full Stack Engineer with 7+ years of experience in IT. I specialize in building scalable web applications using modern technologies and have a keen interest in AI and cloud computing. My diverse skill set allows me to contribute effectively to all stages of the software development lifecycle."
                     },
                     "interests": {
                         "title": "interests",
-                        "description": "<br>I am constantly learning and lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+                        "description": "<br>I am constantly learning and expanding my knowledge in the field of technology. My current interests include artificial intelligence, cloud computing, and emerging web technologies. I enjoy staying up-to-date with the latest industry trends and applying new concepts to solve complex problems."
                     },
                     "education": {
                         "title": "education",
-                        "description": "<br>I have always been passionate about lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <br><br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+                        "description": "<br>I have always been passionate about technology and continuous learning. My educational background includes:<br><br>- Master of Computer Applications (MCA) from CSMU, Kanpur (December 2021)<br>- Bachelor of Commerce from University of Mumbai (March 2017)<br><br>Additionally, I have obtained certifications in Azure (AZ-900), AWS Cloud Practitioner, and CKAD, which have further enhanced my skills in cloud technologies and Kubernetes.",
                         "files": {
-                            "high-school": "I have been in 'Las viñas'...",
-                            "university": "The university..."
+                            "university": "Master of Computer Applications (MCA) from CSMU, Kanpur"
                         }
                     }
                 }
@@ -64,50 +63,24 @@
         "direct": {
             "title": "contacts",
             "sources": {
-                "email": "user@gmail.com",
-                "phone": "+3598246359"
+                "email": "yash@apex36tech.com"
             }
         },
         "social": {
             "github": {
                 "title": "Github profile",
                 "url": "https://github.com/",
-                "user": "username"
+                "user": "yashsoni369"
             },
-            "facebook": {
-                "title": "Facebook profile",
-                "url": "https://facebook.com/",
-                "user": "username"
+            "linkedin": {
+                "title": "LinkedIn profile",
+                "url": "https://linkedin.com/in/",
+                "user": "yashsoni369"
             },
             "twitter": {
                 "title": "Twitter account",
                 "url": "https://twitter.com/",
-                "user": "username"
-            }
-        },
-        "find_me_also_in": {
-            "title": "find-me-also-in",
-            "sources": {
-                "youtube": {
-                    "title": "YouTube channel",
-                    "url": "https://www.youtube.com/",
-                    "user": "username"
-                },
-                "gurushots": {
-                    "title": "GuruShots profile",
-                    "url": "https://gurushots.com/",
-                    "user": "username"
-                },
-                "instagram": {
-                    "title": "Instagram account",
-                    "url": "https://instagram.com/",
-                    "user": "username"
-                },
-                "twitch": {
-                    "title": "Twitch profile",
-                    "url": "https://twitch.com/",
-                    "user": "username"
-                }
+                "user": "yashsoni369"
             }
         }
     },
@@ -117,45 +90,21 @@
     },
     "projects": {
         "1": {
-            "title": "_ui-animations",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
-            "img": "/images/projects/ui-animations2.png",
-            "tech": ["Flutter"],
+            "title": "Infinity AIWatch",
+            "description": "An APM Product collecting data from different monitoring tools and displaying it in various dashboards.",
+            "tech": ["OpenAI", "Python", "React.js", "Node.js", "PostgreSQL", "InfluxDB", "Prometheus"],
             "url": "https://github.com/"
         },
         "2": {
-            "title": "_ai-resources",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
-            "img": "/images/projects/ai-resources.png",
-            "tech": ["Gatsby"],
+            "title": "Infinity DevOps",
+            "description": "Led a team of 10 developers and cloud engineers in developing a product in collaboration with cloud technologies.",
+            "tech": ["Angular", "React", "Node.js", "MongoDB", "AWS", "GCP", "Docker", "Kafka"],
             "url": "https://github.com/"
         },
         "3": {
-            "title": "_worldmap",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
-            "img": "/images/projects/worldmap.png",
-            "tech": ["Angular"],
-            "url": "https://github.com/"
-        },
-        "4": {
-            "title": "_ui-animations",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
-            "img": "/images/projects/ui-animations.png",
-            "tech": ["React"],
-            "url": "https://github.com/"
-        },
-        "5": {
-            "title": "_tetris-game",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
-            "img": "/images/projects/tetris-game.png",
-            "tech": ["React"],
-            "url": "https://github.com/"
-        },
-        "6": {
-            "title": "_ethereum",
-            "description": "Duis aute irure dolor in velit esse cillum dolore.",
-            "img": "/images/projects/ethereum.png",
-            "tech": ["Vue"],
+            "title": "Enrico Project",
+            "description": "Led development team for an Audit Application using a SaaS model and MEAN stack technology.",
+            "tech": ["React.js", "Angular", "Node.js", "MongoDB", "Microservices", "Kafka"],
             "url": "https://github.com/"
         }
     }
